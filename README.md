@@ -4,6 +4,9 @@ This portfolio is created entirely with React.
 
 This portfolio features a home page with a little snippet about me, some of my projects, and a contact form.
 
+![portfoliogif](https://user-images.githubusercontent.com/85534144/132418160-b475bcc4-5039-4787-bf55-b0eb59d786cb.gif)
+
+
 ## Technologies Used
 
 Javascript
