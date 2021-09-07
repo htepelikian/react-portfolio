@@ -1,3 +1,25 @@
+# React-Portfolio
+
+This portfolio is created entirely with React.
+
+This portfolio features a home page with a little snippet about me, some of my projects, and a contact form.
+
+## Technologies Used
+
+Javascript
+
+HTML
+
+CSS 
+
+React
+
+## Author
+
+Cristina / Hripsime Tepelikian
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
