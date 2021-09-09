@@ -9,11 +9,6 @@ This portfolio features a home page with a little snippet about me, some of my p
 https://htepelikian.github.io/react-portfolio/
 
 
-Please direct to About 
-
-There is no homepage thus leading to a 404 error on the "Home"
-
-
 ## Technologies Used
 
 Javascript
