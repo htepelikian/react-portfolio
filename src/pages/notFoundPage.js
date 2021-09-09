@@ -4,7 +4,7 @@ const notFoundPage = () => {
     return (
        <div>
            <h2>
-               404 Not Found
+               Welcome!
            </h2>
        </div> 
     )
